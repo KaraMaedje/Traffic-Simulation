@@ -1,7 +1,6 @@
 # Traffic-Simulation
 Data Structures Course Project
 
-NOTE: Header files currently being modified - unavailable at this time (1/17/2019)
 
 This program makes use of a LinkedListAPI.c file and creates a set of doubly linked lists 
 based on input given in a text file through the command line. The purpose of the program 
